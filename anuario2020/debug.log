@@ -1,0 +1,36 @@
+[0814/164806.832:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0814/164806.894:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0815/012914.664:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0815/012914.664:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0817/183715.683:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0817/183715.684:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0817/183741.518:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0817/183741.518:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0817/183846.536:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0817/183846.536:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0817/230059.409:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0817/230059.459:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0818/020136.106:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0818/020136.106:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0818/020856.904:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0818/020856.904:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0818/175401.416:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0818/175401.416:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0818/175536.092:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0818/175536.092:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0818/183449.359:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0818/183449.359:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0818/183709.935:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0818/183709.935:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0818/204426.083:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0818/204426.083:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0818/213356.535:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0818/213356.535:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0818/213505.804:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0818/213505.804:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0818/213527.578:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0818/213527.578:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1013/173731.015:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1019/120435.364:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1019/174936.091:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1020/095308.472:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
