@@ -1,0 +1,41 @@
+https://www.estadistica.ec.gba.gov.ar/anuarios
+
+Anuario 2021
+
+Generalidades:
+
+Datos geográficos:
+1.M.1 Mapa físico de la provincia de Buenos Aires (no funciona)
+*el resto funcionan
+
+Clima (funciona)
+
+Organización Administrativa (funciona)
+
+Información Ambiental (funciona)
+
+Población:
+
+Estructura:
+5. Población por sexo. Índice de feminidad y masculinidad. Total Provincia. Años censales 1869 a 2010 (no funciona)
+*el resto funciona
+
+Dinámica:
+4.M.1 Mapa. Tasa de crecimiento. Año 2019 (funciona)
+5. Proyección de población al 1º de julio de cada año. Ambos sexos. Por municipio. Años 2020 - 2025 (funciona)
+*el resto NO funcionan
+
+Grupos Poblacionales:
+5.M.1 Mapa. Departamentos judiciales. Año 2021 (funciona)
+5.M.2 Mapa. Regiones educativas. Año 2021 (funciona)
+5.M.3 Mapa. Regiones sanitarias . Año 2021 (funciona)
+5.M.4 Mapa. Secciones electorales. Año 2021 (funciona)
+*el resto NO funcionan
+
+Sociedad:
+
+Natalidad:
+11.M.1 Mapa. Tasa bruta de natalidad. Año 2019 (funciona)
+*el resto NO funcionan
+
+Defunciones:
