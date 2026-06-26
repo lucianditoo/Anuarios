@@ -2,40 +2,259 @@ https://www.estadistica.ec.gba.gov.ar/anuarios
 
 Anuario 2021
 
-Generalidades:
+*Generalidades:
 
-Datos geográficos:
+-Datos geográficos:
 1.M.1 Mapa físico de la provincia de Buenos Aires (no funciona)
-*el resto funcionan
+el resto funcionan
 
-Clima (funciona)
+-Clima (funciona)
 
-Organización Administrativa (funciona)
+-Organización Administrativa (funciona)
 
-Información Ambiental (funciona)
+-Información Ambiental (funciona)
 
-Población:
+*Población:
 
-Estructura:
+-Estructura:
 5. Población por sexo. Índice de feminidad y masculinidad. Total Provincia. Años censales 1869 a 2010 (no funciona)
-*el resto funciona
+el resto funciona
 
-Dinámica:
+-Dinámica:
 4.M.1 Mapa. Tasa de crecimiento. Año 2019 (funciona)
 5. Proyección de población al 1º de julio de cada año. Ambos sexos. Por municipio. Años 2020 - 2025 (funciona)
-*el resto NO funcionan
+el resto NO funcionan
 
-Grupos Poblacionales:
+-Grupos Poblacionales:
 5.M.1 Mapa. Departamentos judiciales. Año 2021 (funciona)
 5.M.2 Mapa. Regiones educativas. Año 2021 (funciona)
 5.M.3 Mapa. Regiones sanitarias . Año 2021 (funciona)
 5.M.4 Mapa. Secciones electorales. Año 2021 (funciona)
-*el resto NO funcionan
+el resto NO funcionan
 
-Sociedad:
+*Sociedad:
 
-Natalidad:
+-Natalidad:
 11.M.1 Mapa. Tasa bruta de natalidad. Año 2019 (funciona)
-*el resto NO funcionan
+el resto NO funcionan
 
-Defunciones:
+-Defunciones:
+14.M.2. Mapa. Tasa bruta de mortalidad. Año 2019 (funciona)
+el resto NO funcionan
+
+-Defunciones Infantiles:
+NO funcionan
+
+-Defunciones Maternas:
+NO funcionan
+
+-Morbilidad:
+NO funcionan
+
+-Recursos y Rendimiento Hospitalario:
+1. Camas disponibles en dependencias oficiales. Total Provincia. Años 2015 - 2019 (funciona)
+11.M.4. Mapa. Promedio de Camas disponibles en dependencias oficiales. Año 2019 (funciona)
+el resto NO funciona
+
+-Encuesta Multipropósito a Hogares y Censo Nacional de Población, Hogares y Viviendas 2010:
+NO funcionan
+
+-Censo Provincial de Matrícula Educativa 2017:
+NO funcionan
+
+-Censo Nacional de Población, Hogares y Viviendas 2010:
+NO funcionan
+
+-Relevamiento Anual. Dirección General de Cultura y Educación:
+10.M.6. Mapa. Tasa de sobreedad del nivel secundario. Relevamiento anual 2018-2019 (falta enlace)
+el resto NO funcionan
+
+-Estadísticas universitarias:
+NO funcionan
+
+-Desempeño y Calidad Educativa:
+NO funcionan
+
+-Encuesta Multipropósito a Hogares:
+NO funcionan
+
+-Encuesta Permanente de Hogares:
+NO funcionan
+
+-Encuesta Permanente de Hogares. Total urbano:
+2. Tasas específcas del mercado laboral.Población de 14 años y más. Total Buenos Aires urbano. 3° trimestre. Años 2016 a 2019 (son un solo link, no funciona)
+3. salariados y Asalariados sin descuento jubilatorio. Total Buenos Aires urbano. 3° trimestre. Años 2016 a 2019 (funciona)
+el resto NO funciona
+
+-Encuesta de Hogares y Empleo. Municipios seleccionados:
+NO funcionan
+
+-Características habitacionales de los hogares:
+NO funcionan
+
+-Censo Nacional de Población, Hogares y Viviendas 2010. Viviendas:
+11.M.2 Mapa. Vivienda tipo inconveniente. Año 2010 (falta enlace)
+el resto NO funcionan
+
+-Familia y Hogares:
+5. Hogares proyectados al 1ro. de julio de cada año calendario. Por municipio. Años 2010 - 2020 (no funciona)
+el resto FUNCIONA
+
+-Pobreza. Necesidades Básicas Insatisfechas:
+3.M.1 Mapa. Población y hogares con Necesidades Básicas Insatisfechas (NBI). Año 2010 (funciona)
+el resto NO funciona
+
+-Incidencia de la Pobreza e Indigencia:
+2.G.1. Gráfico. Evolución de la pobreza y la indigencia. Total 6 aglomerados urbanos de la provincia de Buenos Aires. 2º semestre 2016 a 1º semestre 2021 (falta enlace)
+el resto NO funcionan
+
+-Encuesta Permanente de Hogares. Total urbano:
+1. Hogares y personas bajo la línea de pobreza e indigencia, en porcentaje. Total Buenos Aires urbano. 3° trimestre. Años 2016 a 2019 (falta enlace)
+
+-Indicadores de condiciones de vida:
+2. Población en hogares con hacinamiento crítico. Total 6 aglomerados urbanos de la Provincia. 2° semestre 2016 a 2° semestre 2020 (son un solo enlace, no funciona)
+7. Hogares que habitan en viviendas cercanas a basurales o zonas inundables. Total 6 aglomerados urbanos de la Provincia. 2° semestre 2016 a 2° semestre 2020 (funciona)
+el resto NO funcionan
+
+-Encuesta Permanente de Hogares. Total urbano:
+4. Hogares según tipo de coobertura médica de sus miembros. Total Buenos Aires urbano.Total Buenos Aires urbano. 3° trimestre. Años 2016 a 2019 (falta enlace)
+el resto NO funcionan
+
+-Distribución de Ingresos:
+21.G.1. Gráfico. Coeficiente de Gini, Brecha por medianas y promedios de ingreso per cápita familiar. Total 6 aglomerados urbanos de la Provincia. 2º trim. 2016 a 4º trim. 2020 (falta enlace)
+el resto NO funcionan
+
+-Demográficos:
+NO funcionan
+
+-Condiciones de vida de los Niños, Niñas y Adolescentes:
+NO funcionan
+
+-Educación de los Niños, Niñas y Adolescentes:
+NO funcionan
+
+-Salud de los Niños, Niñas y Adolescentes:
+NO funcionan
+
+-Protección:
+NO funcionan
+
+-Jóvenes:
+7. Jóvenes por tenencia de hijos y convivencia con sus hijos según sexo y grupo de edad. Total Provincia. Año 2016 (falta enlace)
+el resto NO funcionan
+
+-Situación de la mujer:
+14.M.1. Mapa. Hogares en viviendas particulares con jefa mujer. Año 2010 (funciona)
+el resto NO funcionan
+
+-Agencia Nacional de Discapacidad:
+5. Personas con discapacidad con Certificado Único de Discapacidad por tipo de cobertura de salud. Total Provincia. Año 2017 (funciona)
+el resto NO funcionan
+
+-Censo Nacional de población, Hogares y Viviendas 2010:
+NO funcionan
+
+-Instituto de Previsión Social:
+NO funcionan
+
+-Instituto de Obra Médico Asistencial:
+NO funcionan
+
+-Censo Nacional de Población, Hogares y Viviendas 2010:
+6. Población en viviendas particulares de 65 años y más por percepción de jubilación o pensión. Por municipio. Años censales 1991 a 2010 6.M.1. Mapa. Población en viviendas particulares de 65 años y más que perciben jubilación o pensión. Año 2010 (falta enlace)
+el resto FUNCIONAN
+
+-Administración Nacional de la Seguridad Social:
+1. Aportantes a la ANSES en relación de dependencia según régimen y jurisdicción. Provincia de Buenos Aires. Mayo 2020 (no abre)
+2. Aportantes a los sistemas previsionales según régimen. Provincia de Buenos Aires. Mayo 2020 3. Beneficiarios de la prestación por desempleo. Provincia de Buenos Aires. Mayo 2020 (no abre)
+el resto NO funcionan
+
+-Seguridad Pública:
+NO funcionan
+
+-Seguridad Vial:
+NO funcionan
+
+-Participación Electoral:
+10.M.1. Mapa. Presidente y Vicepresidente. Primer puesto y tres listas más votadas. Elecciones generales 2019 (funciona)
+11.M.2. Mapa. Gobernador y Vicegobernador. Primer puesto y tres listas más votadas. Elecciones generales 2019 (funciona)
+14.M.3. Mapa. Intendente, Concejales y Consejeros Escolares. Primer puesto y tres listas más votadas. Elecciones generales 2019 (funciona)
+el resto NO funcionan
+
+-Medio Ambiente:
+NO funcionan
+
+-Gastos de los hogares:
+NO funciona
+
+*Economía:
+
+-Producto Bruto Geográfico:
+NO funcionan
+
+-Indicador Trimestral de la Actividad Económica:
+4.G.3. Gráfico. Indicador Trimestral de la Actividad Económica de la provincia de Buenos Aires (ITAE-PBA). Componente servicios. Índice y variaciones. 1º trimestre 2012 a 1º trimestre 2021 (no funciona)
+el resto FUNCIONAN
+
+-Agricultura:
+5. Mapa. Rinde cebada cervecera. Campaña 2020 - 21 (funciona)
+el resto NO funcionan
+
+-Ganaderia:
+NO funcionan
+
+-Censo Nacional Agropecuario 2018:
+6.Superficie implantada en las EAPs por grupo de cultivos. Del 1 de julio de al 30 de junio. Provincia de Buenos Aires (funciona)
+7. Explotaciones agropecuarias (EAP) con ganado y existencias por especie,. Al 30 de junio. Provincia de Buenos Aires (funciona)
+el resto NO funcionan
+
+-Pesca:
+NO funcionan
+
+-Minería:
+NO funciona
+
+-Industria:
+4. Molienda mensual de trigo. Provincia de Buenos Aires. Enero 2017 - junio 2021. (funciona)
+11. Faena mensual bovina. Provincia de Buenos Aires.Enero 2017 - junio 2021. (funciona)
+12. Faena mensual porcina. Provincia de Buenos Aires.Enero 2017 - junio 2021. (funciona)
+13. Faena mensual aviar. Provincia de Buenos Aires. Enero 2017 - junio 2021. (funciona)
+el resto NO funciona
+
+-Construcción:
+NO funcionan
+
+-Electricidad:
+NO funcionan
+
+-Comercio:
+5. Compraventas e hipotecas mensuales sobre inmuebles. Provincia de Buenos Aires. Enero 2017 - junio 2021 (funciona)
+6. Despacho mensual de cemento portland. Provincia de Buenos Aires. Enero 2017 - junio 2021 (funciona)
+11. Patentamientos mensuales de motos. Provincia de Buenos Aires. Enero 2017 - junio 2021 (funciona)
+13. Transferencias mensuales de motos. Provincia de Buenos Aires. Enero 2017 - junio 2021 (funciona)
+15. Ventas mensuales al mercado interno de aerokerosene. Provincia de Buenos Aires. Enero 2017 - junio 2021 (funciona)
+17. Ventas mensuales al mercado interno de gasoil ultra. Provincia de Buenos Aires. Enero 2017 - junio 2021 (funciona)
+18. Ventas mensuales al mercado interno de nafta super. Provincia de Buenos Aires. Enero 2017 - junio 2021 (funciona)
+19. Ventas mensuales al mercado interno de nafta ultra. Provincia de Buenos Aires. Enero 2017 - junio 2021 (funciona)
+20. Ventas mensuales al mercado interno de asfalto. Provincia de Buenos Aires. Enero 2017 - junio 2021 (funciona)
+el resto NO funcionan
+
+-Exportaciones:
+NO funcionan
+
+-Transporte:
+NO funcionan
+
+-Turismo:
+NO funcionan
+
+-Intermediación Financiera:
+NO funcionan
+
+-Administración Pública:
+NO funcionan
+
+-Empleo Registrado:
+FUNCIONAN
+
+FIN Anuario 2021.
